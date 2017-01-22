@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/pdfToExcel/.vs/pdfToExcel/v14
+/packages/Bytescout.PDFExtractor.8.2.0.2699/content/tessdata
+/pdfToExcel/bin
+/pdfToExcel/obj
+/pdfToExcel/tessdata
